@@ -1,0 +1,12 @@
+[submodule "seed-isort-config"]
+	path = seed-isort-config
+	url = https://github.com/asottile/seed-isort-config
+[submodule "mirrors-isort"]
+	path = mirrors-isort
+	url = https://github.com/pre-commit/mirrors-isort
+[submodule "black"]
+	path = black
+	url = https://github.com/psf/black
+[submodule "pre-commit-hooks"]
+	path = pre-commit-hooks
+	url = https://github.com/pre-commit/pre-commit-hooks
